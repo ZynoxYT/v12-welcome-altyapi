@@ -1,14 +1,14 @@
 {
     "ayarlar": {
         "OwnerID": ["830872038004359240"],
-        "Durum": "Welcome To Adex",
-        "SunucuID": "817401577773072394",
-        "SesKanal": "823891896291819520",
-        "EnAltYetkili": "823891727177089034"
+        "Durum": "",
+        "SunucuID": "",
+        "SesKanal": "",
+        "EnAltYetkili": ""
     },
     "Ses": {
         "Kayıtsızgiris": "ses/hosgeldin.mp3",
         "YetkiliGiris": "ses/yetkili.mp3"
     },
-    "TOKEN": "ODMyNzUwNDM1MTA1ODk4NTU5.YHoVRw.v2bmjUof1Sn8p5_528zZN1k5KLM"
+    "TOKEN": ""
 } 
