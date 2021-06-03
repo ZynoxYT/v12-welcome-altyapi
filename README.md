@@ -2,7 +2,7 @@
 
 * `kokoreç.json` doldurmanız yeterlidir.
 
-* Brita#1337 (830872038004359240) Her hangi bir sorunda Discord hesabıma ulaşabilirsiniz, eğer ulaşamazsanız discord.gg/serendia'da sorun yol gösterirlerrr
+* Brita#0003 (830872038004359240) Her hangi bir sorunda Discord hesabıma ulaşabilirsiniz, eğer ulaşamazsanız discord.gg/serendiasquad'a sorun yol gösterirlerrr
 
 
 
